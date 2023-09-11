@@ -1,5 +1,5 @@
 # CreditCardValidatorApp
-[![Framework](https://img.shields.io/badge/SpringBoot-4-green)](https://spring.io/tools)
+[![Framework](https://img.shields.io/badge/SpringBoot-3.1.0-green)](https://spring.io/tools)
 [![Framework](https://img.shields.io/badge/Tailwind_CSS-v3.3.1-skyblue)](https://tailwindcss.com/)
 ![Framework](https://img.shields.io/badge/H2_Database-gray)
 
